@@ -26,4 +26,6 @@ There are two scripts in the `scripts` folder, which can be run from the reposit
 
 This is for fine-tuning NSP models.
 
-#### eval_signal.sh
+#### eval_CAP.sh
+
+This is for evaluating fine-tuned NSP models with various early exiting thresholds.
