@@ -14,7 +14,7 @@ After installing the required environment, clone this repository and install the
 
 ```
 git clone https://github.com/He-Jianing/NSP.git
-cd code_ijcai25_nsp
+cd NSP
 pip install -r ./requirements.txt
 ```
 
